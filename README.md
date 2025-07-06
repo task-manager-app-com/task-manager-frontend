@@ -17,10 +17,10 @@ Follow these steps to set up and run the project locally.
 
 ```bash
 # Clone the repository
-git clone https://github.com/Virtual-Pet-Adoption-Center/pet-adoption-frontend.git
+git clone https://github.com/task-manager-app-com/task-manager-frontend.git
 
 # Navigate into the project directory
-cd pet-adoption-frontend
+cd task-manager-frontend
 
 # Install dependencies
 npm install
