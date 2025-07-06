@@ -19,9 +19,9 @@ const ToDoList = ({ allData, onTaskUpdate, mode }) => {
         sx={
           mode === 'history'
             ? {
-                maxHeight: '400px', // or any height you prefer
+                maxHeight: '400px', 
                 overflowY: 'auto',
-                pr: 1, // optional: space for scrollbar
+                pr: 1, 
               }
             : {}
         }
